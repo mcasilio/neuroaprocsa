@@ -1,6 +1,6 @@
 # Hello and welcome to the neuroaprocsa repository!
 
-last updated: 9/20/2023
+last updated: 9/22/2023
 
 This is a repository for materials supporting the neuroaprocsa project, which focuses on the brain basis of naturalistic language production in aphasia using auditory-perceptual rating of connected speech in aphasia (APROCSA; Casilio et al., 2019). This repository is currently archived as a means of sharing the files with the public in a read-only format. However, it is still actively maintained. Any questions concerning the analyses or code can be sent to: marianne.e.casilio@vanderbilt.edu.
 
