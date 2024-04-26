@@ -24,7 +24,7 @@ We completed a related study that describes the development of a clinical traini
 
 APROCSA_manual.pdf
 
-The entirety of the materials (e.g., training webinar with video examples) will be shared at a future date. Intermin results will be presented at the American Speech-Language-Hearing Association Convention this upcoming November, details for which can be found at https://plan.core-apps.com/asha2023/event/83c9e54e7c0ab1d9072aee98566950dc.
+The entirety of the materials (e.g., training webinar with video examples) will be shared at a future date. Intermin results were presented at the American Speech-Language-Hearing Association Convention this upcoming November, details for which can be found at https://plan.core-apps.com/asha2023/event/83c9e54e7c0ab1d9072aee98566950dc.
 
 For those who would like to practice rating APROCSA with reference to expert consensus scores, we curated a freely shareable dataset of audiovisual-recorded naturalistic language samples. This dataset is available on our lab website at https://aphasialab.org/aprocsa-dataset/ and on AphasiaBank (MacWhinney et al., 2011) at https://aphasia.talkbank.org/access/English/Aphasia/APROCSA-access/APROCSA.html. Our paper in Data (Ezzes et al., 2022) describing this work is available at https://aphasialab.org/publications/.
 
